@@ -1,5 +1,5 @@
 %% Directories
-
+% @author: Madeline Shao
 ntrials = 100; % number of trials
 
 % get input from command window for initials of your participant
